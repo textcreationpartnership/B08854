@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cryes of Westminster., or, The Parliament pedlar, with his whole pack of knavery opened, and set to sale. Come customers, come : pray see what you lack, her's Parliament wares of all sorts in my pack.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08854</idno>
+            <idno type="STC">Wing C6911A</idno>
+            <idno type="STC">ESTC R174300</idno>
+            <idno type="EEBO-CITATION">64551136</idno>
+            <idno type="OCLC">ocm 64551136</idno>
+            <idno type="VID">184497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184497)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cryes of Westminster., or, The Parliament pedlar, with his whole pack of knavery opened, and set to sale. Come customers, come : pray see what you lack, her's Parliament wares of all sorts in my pack.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected and amended printed in a hollow-tree for the good of the state.</edition>
+               </editionStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Last two pages blank.</note>
+                  <note>Imperfect: creased and stained.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184497:1"/>
+            <head>
+               <hi>The Cryes OF</hi> Westminſter.</head>
+            <head type="sub">Or the <hi>Parliament Pedlar,</hi> with his whole Pack of Knavery opened, and ſet to ſale.
+<l>Come Cuſtomers, come: Pray ſee what you lack,</l>
+               <l>Her's <hi>Parliament Wares</hi> of all ſorts in my Pack.</l>
+            </head>
+            <div type="part">
+               <lg>
+                  <l>WHo buyes any <hi>Parliament Priviledges?</hi>
+                  </l>
+                  <l>My new Priviledges.</l>
+                  <l>'Twill reach you many pretty things,</l>
+                  <l>And raiſe you above Gods or King<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <hi>Theſe are the Cryes of Weſtminſter,</hi>
+                  </l>
+                  <l>
+                     <hi>That are heard both far and neer.</hi>
+                  </l>
+                  <l>
+                     <hi>But a while I pray ſtand by,</hi>
+                  </l>
+                  <l>
+                     <hi>And you ſhall hear another cry.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Who buyes the Parliaments <hi>Declaration</hi> againſt the King: New, new, new.</l>
+                  <l>'Twill ſurely unblinde your eyes,</l>
+                  <l>That you may read a hundred lyes.</l>
+                  <l>
+                     <hi>Thus goe the Cryes,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Buy a new Ordinance to repair Churches:</l>
+                  <l>A new Ordinance, new, new, new.</l>
+                  <l>The <hi>Achans</hi> now reſtore the Wedge,</l>
+                  <l>To ſalve their Saintſhips <hi>Sacriledge.</hi>
+                  </l>
+                  <l>
+                     <hi>Thus goe the cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>Buy a new Ordinance of the Commons, againſt Sage-players. New-lye printed, and new-lye come forth.</p>
+               <lg>
+                  <l>Saints now alone muſt <hi>Act</hi> for Riches,</l>
+                  <l>The Plott out-ſmells old <hi>Atkins</hi> breches.</l>
+                  <l>
+                     <hi>Thus goe the Cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>Buy a new Order of Parliament, That none ſhall make any more Adreſſes to the King, or <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ceive any Meſſage from him, upon pain of High-treaſon, Impriſonment, death, or plun<g ref="char:EOLhyphen"/>dering: But when theſe ſhall ſwing in a ſtring, true Subjcts will obey their King.</p>
+               <lg>
+                  <l>
+                     <hi>Challonner, Mildmay, Martin, Veine,</hi>
+                  </l>
+                  <l>Are fitting of their crowns to reigne.</l>
+                  <l>
+                     <hi>Theſe are the Cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>Buy a new Plot<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, found out by Sir <hi>Iohn Wray,</hi> to blow up the Thames, or the city to betray, 'tis as true as all the reſt, before nere known by man nor beaſt.</p>
+               <lg>
+                  <l>Twill keep you ſtill in Jealouſies and Fears,</l>
+                  <l>And ſets you all together by the Ears.</l>
+                  <l>
+                     <hi>Thus goe the cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>Buy the Four Bills ſent by the Parliment, from <hi>Selden</hi> and my Lady <hi>Ken<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> after long De<g ref="char:EOLhyphen"/>bate of this bleſſed Parliament; Who buyes the Four Bills here. Great CHARLES he will not betray his Truſt unto ſuch as they; his Ho<g ref="char:EOLhyphen"/>nors ſtill intire; his Conſcience try'd nine times ith' Fire; the Devill give all his foes their hire; and raiſe them toward heaven above a halter nyer.</p>
+               <lg>
+                  <l>Let all the People ſay, Amen.</l>
+                  <l>For we ſhall ne're have Peace till then.</l>
+                  <l>
+                     <hi>Thus goe the cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>Who byes any Biſhops Houſes, or their goods, Books, houſhold-ſtuffe or hoods; here are good paſture grouds, corn, hay and graſſe in all our Rouds, if it be not all good, the De<g ref="char:EOLhyphen"/>vill confound's. Amen.</p>
+               <lg>
+                  <l>May all the Trees to gibbits turn,</l>
+                  <l>Or firing make, to hang or burn,</l>
+                  <l>
+                     <hi>Thus goe the cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>Have you any old Arrears for the Army, ile give you tickets for em; have you any Subſidies, Poll-money, Loanes or Contributions, have you any Plate, Horſe, or Armes, old bodkins or Thimbles or wedding Rings, have ye any; Have you any more <hi>Iriſh Adventures</hi> for ſale of lands, or a trick for one meal a week. City Loans have you any; or Aſſeſſments for the <hi>Sco<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> have you any Five and Twenty Parts, weekly or monthly Aſſeſſments for <hi>Eſſex, Fair-fax, Mancheſters,</hi> the Scots or Iriſh Army; Free-Quarter have you any. Have you any of his Majeſties Revenue to ſell, Old Sequeſtrations or Plunder: have you any more Exizes, or For<g ref="char:EOLhyphen"/>tification-money, or Fynes for Delinquents Compoſitions, &amp;c. or a new Ordinance for 400000l. the moneth.</p>
+               <lg>
+                  <l>This is our <hi>Liberty</hi> for to pay</l>
+                  <l>The Saints that now King <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>harles</hi> betray.</l>
+                  <l>Thus goe the cryes of <hi>Weſtminſter,</hi>
+                  </l>
+                  <l>That are heard both far and neer,</l>
+                  <l>But a wile I p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay ſtand by,</l>
+                  <l>And you will hear another cry.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:184497:1"/>
+               <head>The Second Part, To the ſame Tune.</head>
+               <p>MY New Articles of Faith, who buyes the Parliaments new Faith? You may ſee by their WORKS, they are worſe then Jews or Turks; let their faith be what it will, their Religion is to Kill.</p>
+               <l>
+                  <hi>Thus goe the cryes,</hi> &amp;c.</l>
+               <p>Who buyes any Parliament jugglings of the neweſt faſhion, <hi>Hocus Pocus</hi> never ſhew'd more to cheat the Nation; here is a trick, by <hi>Martins</hi> ring, ſhall ſuddenly depoſe a King; <hi>Tom</hi> ſhews you a ptitty trick alſo, and at <hi>New-maret</hi> and St. <hi>Albanes</hi> tells us what he means to doe: Truſty <hi>Thomas,</hi> thus keeps his Promiſe with his King; grace for<g ref="char:EOLhyphen"/>ſake him, devill take him, may all ſuch falſe Knaves ſwing.</p>
+               <l>
+                  <hi>Thus goe the Cryes,</hi> &amp;c.</l>
+               <p>Who buyes the Army's <hi>Propoſalls;</hi> cuſto<g ref="char:EOLhyphen"/>mers pray draw neer, the Devill in his pack had nere ſuch geere; Here's <hi>Cromwells</hi> ma<g ref="char:EOLhyphen"/>maſter-peece, 'twill blinde your eyes, &amp; fill your head with Fifteen hundred Lies.</p>
+               <l>
+                  <hi>Thus goe the cryes,</hi> &amp;c.</l>
+               <p>Her's a fine Order, was the like ever ſeen, ſhall murder all that Love their King or their Queen, a knot of ſuch Trayterous Regicides were ſurely never ſeen, as <hi>Chal<g ref="char:EOLhyphen"/>loner, Mildmay, Martyn</hi> and <hi>Veine,</hi> all Parlia<g ref="char:EOLhyphen"/>ment Kings, that over us reigne: They are all glutted with their fellow ſubjects blood, and yet pretend their good; but pray let it be underſtood, for all <hi>Burleys</hi> blood, before <hi>Ienkins</hi> ſhall die, a hundred thouſand in the City of <hi>London</hi> will try, to make <hi>Martyn,</hi> and all ſuch Roagues to fly.</p>
+               <lg>
+                  <l>
+                     <hi>Theſe be the cryes of</hi> London Towne,</l>
+                  <l>
+                     <hi>Some goe up Street, ſome goes downe,</hi>
+                  </l>
+                  <l>But a while I pray ſtand by,</l>
+                  <l>And you will hear another cry.</l>
+               </lg>
+               <p>A new Ordinance pray come and buy, to eſtabliſh the Presbytery; what Religion next, put's me beyond my text? if this wont pleaſe you, ſee another, pray Sir try, for I have a hundred more, here in my Pack, for you to buy.</p>
+               <l>
+                  <hi>Theſe be the cryes,</hi> &amp;c.</l>
+               <p>Who buyes a new Order, to new dip the Kings ſhips, and to their eternall fames, give them all new names; the Parliaments Ships forſooth; the <hi>Royall Soveraigne</hi> muſt be the <hi>Royall Traytor,</hi> the <hi>Prince,</hi> the <hi>Parlia<g ref="char:EOLhyphen"/>ment Pinck,</hi> and the whole Fleet the <hi>Parlia<g ref="char:EOLhyphen"/>ments Navie;</hi> O brave pyrats, whether are you bound, let croſſe winde toſſe you, whilſt you all are dround.</p>
+               <lg>
+                  <l>Thus to the world they make it known,</l>
+                  <l>Crown, Scpter, ſhips, &amp; ALL's their own,</l>
+                  <l>
+                     <hi>Theſe be the cryes,</hi> &amp;c.</l>
+               </lg>
+               <p>VVho buyes a new <hi>Petition</hi> from <hi>Tanton,</hi> that the Devil brought the laſt great winde, and the Traytos now vant on. New, new, new, but as faſe as God is true; and ſo you juggling Devills all, Adue.</p>
+               <l>
+                  <hi>Thus goe the cryes,</hi> &amp;c.</l>
+            </div>
+            <div type="poem">
+               <head>An Execration to all that hate <hi>King CHARLES.</hi>
+               </head>
+               <p>May God forſake ye, may the Devill, take ye, May the pox eate up your bones, con<g ref="char:EOLhyphen"/>ſume your rotten Members, and burne up both fleſh &amp; bones to embers; may the palſie ſhake your hands and heads, and bloody viſions hant your beds; all Egypts plagues and ten times more wait on you all at ei<g ref="char:EOLhyphen"/>ther door; May all your wives turn arrant jads, and you live <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> trades<g ref="char:punc">▪</g> may the gowt be in you toes, and no end be to your wooes, may no Surgeon hear your moans; and all your joyes be ſighs &amp; groans may the running of the Reines, or the Quinſie ceaze your brains; May the tooth<g ref="char:EOLhyphen"/>ach, and the feaver, to plague you ſtill doe their endeavor; May the Strangullion be your beſt friend, and nere forſake you till your end; May you be the peoples ſcorne, and curſe the houre that you were borne; May <hi>Bedlam</hi> or <hi>Bridewell,</hi> be all the houſe you have to dwell; May your childrens children begg from one door to another, bereft of Pa<g ref="char:EOLhyphen"/>rets, freinds, Father and mother; May a guil<g ref="char:EOLhyphen"/>ty Conſcience alwayes affright ye, and no earthly joyes delight ye; May you have aches in your rotten bones, gravell in your kid<g ref="char:EOLhyphen"/>neys and your ſtones; May your Daughters all turn Whores, and their Fathers keep the doores, May they never ſleep in quiet, and fear Poyſon in their diet; May they never Curſing lack, and ſo the <hi>Pedler</hi> ſhuts his pack. <hi>Only when as they die, ('cauſe they were never true) And that their ſouls depart,</hi> Devil claim thy due.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>The ſecond Edition, corrected and amended: <hi>printed in a</hi> hollow-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree, <hi>for the good of the</hi> State.</p>
+            <pb facs="tcp:184497:2" rendition="simple:additions"/>
+            <pb facs="tcp:184497:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
